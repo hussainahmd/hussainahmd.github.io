@@ -1,4 +1,3 @@
-"# hussainahmd.github.io" 
 
 Simple BST animation.
 
